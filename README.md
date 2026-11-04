@@ -4,7 +4,7 @@ Website giới thiệu bản thân và các dự án đã làm
 ## Demo 
 https://levanhungdev.github.io/portfolio_v7/
 ## Tính năng
-
+xóa gạch chân ở menu, ở mục kĩ năng tạo các khung để chứ chứ k có ul dấu . nữa, dự án thay bằng link git thật của cá nhân và ấn mở ra đc 
 ## Cách mở 
 1. Mở URL ở mục Demo. 
 2. Bấm để xem chi tiết portfolio 
